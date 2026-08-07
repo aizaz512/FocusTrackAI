@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+scipy
+ultralytics
+streamlit
+plotly
+pandas
+reportlab
+sqlalchemy
+fastapi
+uvicorn
